@@ -1,6 +1,16 @@
-# flutter_application_1
-
-A new Flutter project.
+In this application firstly i help with the w3schools for the program
+then i add a cluebox to find the work more easy by using the function wordwithclues() in which it shows clue
+then i use networkimage() to add the professional background of the game
+I made a list of words in the game which are the right words to win the game[
+    {"word": "FLUTTER", "clue": "A UI toolkit by Google"},
+    {"word": "DEVELOPER", "clue": "A person who writes code"},
+    {"word": "MOBILE", "clue": "Handheld smart device"},
+    {"word": "HANGMAN", "clue": "A classic word-guessing game"},
+    {"word": "DART", "clue": "Programming language used in Flutter"},
+    {"word": "SOFTWARE", "clue": "Programs and applications on a computer"},
+    {"word": "ENGINEER", "clue": "A person who designs and builds things"},
+  ]; these are the list of words with their deired clues given by the appropriate word.
+I modify the structure of the game with width # flutter_application_1
 
 ## Getting Started
 
